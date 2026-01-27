@@ -7,7 +7,7 @@
   [![Portfolio](https://img.shields.io/badge/Visit_My-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omm-technology-solutions-unit.netlify.app/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919090303256)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanha5140q@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omm_solutions)
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omm_technology_solutions?igsh=dmw2eG43aGFxNHd5)
 
 </div>
 
