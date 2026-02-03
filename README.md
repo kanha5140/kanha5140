@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#D4AF37&height=280&section=header&text=Hello,%20I'm%20Om%20Prasad%20Mohanty&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Founder%20@%20Omm%20Technology%20|%20Building%20Smart%20Business%20Solutions&descAlignY=55&descAlign=48" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=280&section=header&text=Hello,%20I'm%20Om%20Prasad%20Mohanty&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Founder%20@%20Omm%20Technology%20|%20Building%20Smart%20Business%20Solutions&descAlignY=55&descAlign=48" width="100%"/>
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Visit_My-Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://omm-technology-solutions-unit.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://omm-technology-solutions-unit.netlify.app/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919090303256)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanha5140q@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omm_technology_solutions?igsh=dmw2eG43aGFxNHd5)
