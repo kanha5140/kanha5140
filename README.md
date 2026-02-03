@@ -1,31 +1,85 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=OM%20PRASAD%20MOHANTY&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=FFD700&stroke=FFD700&strokeWidth=2&desc=SYSTEM_STATUS:%20ONLINE%20|%20ARCHITECTING%20DIGITAL%20SOLUTIONS&descAlignY=65&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Om%20Prasad%20Mohanty&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Founder%20@%20Omm%20Technology&descAlignY=60&descAlign=50&fontColor=FFD700" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://omm-technology-solutions-unit.netlify.app/">
-    <img src="https://img.shields.io/badge/ACCESS_PORTFOLIO-FFD700?style=for-the-badge&logo=vercel&logoColor=black" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Building+Smart+Business+Solutions;Web+Developer+%26+Automation+Specialist;Turning+Excel+into+Web+Apps;Simplifying+Business+Operations" alt="Typing SVG" />
   </a>
-  <a href="https://wa.me/919090303256">
-    <img src="https://img.shields.io/badge/ESTABLISH_UPLINK-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
-  </a>
-  <a href="mailto:kanha5140q@gmail.com">
-    <img src="https://img.shields.io/badge/SEND_TRANSMISSION-D14836?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://www.instagram.com/omm_technology_solutions">
-    <img src="https://img.shields.io/badge/VISUAL_FEED-E4405F?style=for-the-badge&logo=instagram&logoColor=black" />
-  </a>
+</div>
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Visit_My-Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://omm-technology-solutions-unit.netlify.app/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919090303256)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanha5140q@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omm_technology_solutions?igsh=dmw2eG43aGFxNHd5)
+
 </div>
 
 <br>
 
-```javascript
-const user = {
-    name: "Om Prasad Mohanty",
-    role: "Founder @ Omm Technology",
-    codebase: ["JavaScript", "Excel Automation", "Voice AI"],
-    mission: "Automating the physical world with digital logic.",
-    current_status: "Building FreshMart Ecosystem..."
-};
+<h3 align="center">
+  👨‍💻 <span style="color: #FFD700">About Me</span>
+</h3>
 
-console.log("Welcome to my digital workspace.");
+<p align="center">
+ I am a <b>Web Developer & Business Automation Specialist</b> based in Rourkela, Odisha. <br>
+ I founded <b>Omm Technology</b> to help businesses simplify their operations using "No-Code" backends.
+</p>
+
+<div align="center">
+  
+| 🔭 **Current Focus** | 🛒 **FreshMart** (Grocery Automation) |
+| :--- | :--- |
+| 🤖 **Innovation** | Voice AI & Assistants (Project Friday) |
+| 💼 **My Mission** | Eliminating manual paperwork with code. |
+
+</div>
+
+---
+
+<h3 align="center">
+  🛠️ <span style="color: #FFD700">Tech Stack & Tools</span>
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,github,vscode,netlify,googlecloud&theme=dark" />
+  <br><br>
+  <i>Focusing on: <b>Business Logic, UI/UX, and Sheet Automation</b></i>
+</div>
+
+---
+
+<h3 align="center">
+  🚀 <span style="color: #FFD700">Featured Projects</span>
+</h3>
+
+| Project | Description | Type |
+| :--- | :--- | :--- |
+| **🛒 [FreshMart E-com](https://github.com/kanha5140/FreshMart-E-com)** | **Grocery Automation:** Auto-billing and inventory managed via Google Sheets/Excel. | 🏢 **Business** |
+| **🎙️ [Friday Assistant](https://github.com/kanha5140/friday)** | **Voice AI:** A web assistant that executes commands and navigates via voice. | 🤖 **AI/Tech** |
+| **🏥 [Advance Ambulance](https://github.com/kanha5140/Advance-Ambulance-Booking)** | **Emergency Tech:** Quick-booking platform for medical transport. | 🚑 **Service** |
+| **🏢 [A2Z Tech Property](https://github.com/kanha5140/A2Z-Tech-Property)** | **Real Estate:** Modern showcase for residential & commercial projects. | 🏠 **Design** |
+
+---
+
+<h3 align="center">
+  📈 <span style="color: #FFD700">GitHub Stats</span>
+</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanha5140&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanha5140&theme=transparent&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="150" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanha5140&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&hide_border=true" width="100%" />
+</div>
+
+<div align="center">
+  <br>
+  <b>Let's Build Something Amazing Together!</b><br>
+  <img src="https://komarev.com/ghpvc/?username=kanha5140&label=Profile%20Views&color=FFD700&style=flat" alt="kanha5140" />
+</div>
