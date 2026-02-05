@@ -79,15 +79,6 @@
 </div>
 
 
-<h3 align="center">
-  🐍 <span style="color: #FFD700">My Contribution Snake</span>
-</h3>
-
-<div align="center">
-  <img src="https://github.com/kanha5140/kanha5140/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-
 <div align="center">
   <br>
   <b>Let's Build Something Amazing Together!</b><br>
