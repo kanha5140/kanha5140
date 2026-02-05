@@ -78,13 +78,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanha5140&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&hide_border=true" width="100%" />
 </div>
 
-<h3 align="center">
-  🐍 <span style="color: #FFD700">My Contribution Snake</span>
-</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kanha5140/kanha5140/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
   <br>
