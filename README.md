@@ -61,6 +61,7 @@
 | **🎙️ [Friday Assistant](https://github.com/kanha5140/friday)** | **Voice AI:** A web assistant that executes commands and navigates via voice. | 🤖 **AI/Tech** |
 | **🏥 [Advance Ambulance](https://github.com/kanha5140/Advance-Ambulance-Booking)** | **Emergency Tech:** Quick-booking platform for medical transport. | 🚑 **Service** |
 | **🏢 [A2Z Tech Property](https://github.com/kanha5140/A2Z-Tech-Property)** | **Real Estate:** Modern showcase for residential & commercial projects. | 🏠 **Design** |
+| **🏢 [Archie Pure Creations](https://github.com/kanha5140/Archie-Pure-Creations)** | **Art To Business:** Modern showcase for Crafting projects. | 🏠 **Marketing** |
 
 ---
 
